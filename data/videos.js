@@ -1,4 +1,4 @@
-const videos = [
+export const videos = [
   {
     thumbnail: 'thumbnails/thumbnail-1.webp',
     time: '14:20',
@@ -48,4 +48,4 @@ const videos = [
     author: 'Mr Beast',
     stats: '141M views &#183; 1 year ago'
   }
-]
+];
